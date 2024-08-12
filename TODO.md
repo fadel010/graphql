@@ -1,0 +1,5 @@
+- [ ] Handle routes
+- [ ] Optimize the code
+- [ ] Check if it passes the audit
+- [ ] Improve the UI
+- [ ] Host the website
